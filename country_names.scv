@@ -1,0 +1,264 @@
+id_3char ,id ,name 
+AGO ,afago ,Angola 
+BDI ,afbdi ,Burundi 
+BEN ,afben ,Benin 
+BFA ,afbfa ,Burkina Faso 
+BWA ,afbwa ,Botswana 
+CAF ,afcaf ,Central African Republic 
+CIV ,afciv ,Cote d'Ivoire 
+CMR ,afcmr ,Cameroon 
+COD ,afcod ,Democratic Republic of the Congo 
+COG ,afcog ,Republic of the Congo 
+COM ,afcom ,Comoros 
+CPV ,afcpv ,Cape Verde 
+DJI ,afdji ,Djibouti 
+DZA ,afdza ,Algeria 
+EGY ,afegy ,Egypt 
+ERI ,aferi ,Eritrea 
+ESH ,afesh ,Western Sahara 
+ETH ,afeth ,Ethiopia 
+GAB ,afgab ,Gabon 
+GHA ,afgha ,Ghana 
+GIN ,afgin ,Guinea 
+GMB ,afgmb ,Gambia 
+GNB ,afgnb ,Guinea-Bissau 
+GNQ ,afgnq ,Equatorial Guinea 
+KEN ,afken ,Kenya 
+LBR ,aflbr ,Liberia 
+LBY ,aflby ,Libya 
+LSO ,aflso ,Lesotho 
+MAR ,afmar ,Morocco 
+MDG ,afmdg ,Madagascar 
+MLI ,afmli ,Mali 
+MOZ ,afmoz ,Mozambique 
+MRT ,afmrt ,Mauritania 
+MUS ,afmus ,Mauritius 
+MWI ,afmwi ,Malawi 
+MYT ,afmyt ,Mayotte 
+NAM ,afnam ,Namibia 
+NER ,afner ,Niger 
+NGA ,afnga ,Nigeria 
+REU ,afreu ,Reunion 
+RWA ,afrwa ,Rwanda 
+SDN ,afsdn ,Sudan 
+SEN ,afsen ,Senegal 
+SHN ,afshn ,Saint Helena 
+SLE ,afsle ,Sierra Leone 
+SOM ,afsom ,Somalia 
+SSD ,afssd ,South Sudan 
+STP ,afstp ,Sao Tome and Principe 
+SWZ ,afswz ,Swaziland 
+SYC ,afsyc ,Seychelles 
+TCD ,aftcd ,Chad 
+TGO ,aftgo ,Togo 
+TUN ,aftun ,Tunisia 
+TZA ,aftza ,Tanzania 
+UGA ,afuga ,Uganda 
+ZAF ,afzaf ,South Africa 
+ZMB ,afzmb ,Zambia 
+ZWE ,afzwe ,Zimbabwe 
+ATA ,anata ,Antarctica 
+ATF ,anatf ,French South Antarctic Territory 
+BVT ,anbvt ,Bouvet Island 
+HMD ,anhmd ,Heard Island and McDonald Islands 
+SGS ,ansgs ,South Georgia South Sandwich Islands 
+AFG ,asafg ,Afghanistan 
+ARE ,asare ,United Arab Emirates 
+ARM ,asarm ,Armenia 
+AZE ,asaze ,Azerbaijan 
+BGD ,asbgd ,Bangladesh 
+BHR ,asbhr ,Bahrain 
+BRN ,asbrn ,Brunei 
+BTN ,asbtn ,Bhutan 
+CCK ,ascck ,Cocos (Keeling) Islands 
+CHN ,aschn ,China 
+CXR ,ascxr ,Christmas Island 
+CYP ,ascyp ,Cyprus 
+GEO ,asgeo ,Georgia 
+HKG ,ashkg ,Hong Kong 
+IDN ,asidn ,Indonesia 
+IND ,asind ,India 
+IOT ,asiot ,British Indian Ocean Territory 
+IRN ,asirn ,Iran 
+IRQ ,asirq ,Iraq 
+ISR ,asisr ,Israel 
+JOR ,asjor ,Jordan 
+JPN ,asjpn ,Japan 
+KAZ ,askaz ,Kazakhstan 
+KGZ ,askgz ,Kyrgyzstan 
+KHM ,askhm ,Cambodia 
+KOR ,askor ,South Korea 
+KWT ,askwt ,Kuwait 
+LAO ,aslao ,Laos 
+LBN ,aslbn ,Lebanon 
+LKA ,aslka ,Sri Lanka 
+MAC ,asmac ,Macau 
+MDV ,asmdv ,Maldives 
+MID ,asmid ,Midway 
+MMR ,asmmr ,Burma 
+MNG ,asmng ,Mongolia 
+MYS ,asmys ,Malaysia 
+NPL ,asnpl ,Nepal 
+OMN ,asomn ,Oman 
+PAK ,aspak ,Pakistan 
+PHL ,asphl ,Philippines 
+PRK ,asprk ,North Korea 
+PSE ,aspse ,Palestine 
+QAT ,asqat ,Qatar 
+SAU ,assau ,Saudi Arabia 
+SGP ,assgp ,Singapore 
+SYR ,assyr ,Syria 
+THA ,astha ,Thailand 
+TJK ,astjk ,Tajikistan 
+TKM ,astkm ,Turkmenistan 
+TLS ,astls ,Timor-Leste 
+TUR ,astur ,Turkey 
+TWN ,astwn ,Taiwan 
+UZB ,asuzb ,Uzbekistan 
+VNM ,asvnm ,Vietnam 
+YAR ,asyar ,Yemen Arab Republic 
+YEM ,asyem ,Yemen 
+YMD ,asymd ,Democratic Yemen 
+ALB ,eualb ,Albania 
+AND ,euand ,Andorra 
+AUT ,euaut ,Austria 
+BEL ,eubel ,Belgium 
+BGR ,eubgr ,Bulgaria 
+BIH ,eubih ,Bosnia and Herzegovina 
+BLR ,eublr ,Belarus 
+BLX ,eublx ,Belgium-Luxembourg 
+CHE ,euche ,Switzerland 
+CHI ,euchi ,Channel Islands 
+CSK ,eucsk ,Czechoslovakia 
+CZE ,eucze ,Czech Republic 
+DDR ,euddr ,Democratic Republic of Germany 
+DEU ,eudeu ,Germany 
+DNK ,eudnk ,Denmark 
+ESP ,euesp ,Spain 
+EST ,euest ,Estonia 
+FDR ,eufdr ,Federal Republic of Germany 
+FIN ,eufin ,Finland 
+FRA ,eufra ,France 
+FRO ,eufro ,Faroe Islands 
+GBR ,eugbr ,United Kingdom 
+GIB ,eugib ,Gibraltar 
+GRC ,eugrc ,Greece 
+HRV ,euhrv ,Croatia 
+HUN ,euhun ,Hungary 
+IMN ,euimn ,Isle of Man 
+IRL ,euirl ,Ireland 
+ISL ,euisl ,Iceland 
+ITA ,euita ,Italy 
+KSV ,euksv ,Kosovo 
+LIE ,eulie ,Liechtenstein 
+LTU ,eultu ,Lithuania 
+LUX ,eulux ,Luxembourg 
+LVA ,eulva ,Latvia 
+MCO ,eumco ,Monaco 
+MDA ,eumda ,Moldova 
+MKD ,eumkd ,Macedonia 
+MLT ,eumlt ,Malta 
+MNE ,eumne ,Montenegro 
+NLD ,eunld ,Netherlands 
+NOR ,eunor ,Norway 
+POL ,eupol ,Poland 
+PRT ,euprt ,Portugal 
+ROU ,eurou ,Romania 
+RUS ,eurus ,Russia 
+SCG ,euscg ,Serbia and Montenegro 
+SJM ,eusjm ,Svalbard 
+SMR ,eusmr ,San Marino 
+SRB ,eusrb ,Serbia 
+SUN ,eusun ,USSR 
+SVK ,eusvk ,Slovakia 
+SVN ,eusvn ,Slovenia 
+SWE ,euswe ,Sweden 
+UKR ,euukr ,Ukraine 
+VAT ,euvat ,Holy See (Vatican City) 
+YUG ,euyug ,Yugoslavia 
+ABW ,naabw ,Aruba 
+AIA ,naaia ,Anguilla 
+ANT ,naant ,Netherlands Antilles 
+ATG ,naatg ,Antigua and Barbuda 
+BES ,nabes ,Bonaire 
+BHS ,nabhs ,Bahamas 
+BLM ,nablm ,Saint Barthélemy 
+BLZ ,nablz ,Belize 
+BMU ,nabmu ,Bermuda 
+BRB ,nabrb ,Barbados 
+CAN ,nacan ,Canada 
+CRI ,nacri ,Costa Rica 
+CUB ,nacub ,Cuba 
+CUW ,nacuw ,Curaçao 
+CYM ,nacym ,Cayman Islands 
+DMA ,nadma ,Dominica 
+DOM ,nadom ,Dominican Republic 
+GRD ,nagrd ,Grenada 
+GRL ,nagrl ,Greenland 
+GTM ,nagtm ,Guatemala 
+HND ,nahnd ,Honduras 
+HTI ,nahti ,Haiti 
+JAM ,najam ,Jamaica 
+KNA ,nakna ,Saint Kitts and Nevis 
+LCA ,nalca ,Saint Lucia 
+MAF ,namaf ,Saint Maarten 
+MEX ,namex ,Mexico 
+MSR ,namsr ,Montserrat 
+MTQ ,namtq ,Martinique 
+NAA ,nanaa ,Netherland Antilles and Aruba 
+NIC ,nanic ,Nicaragua 
+PAN ,napan ,Panama 
+PCI ,napci ,Pacific Island (US) 
+PCZ ,napcz ,Panama Canal Zone 
+PRI ,napri ,Puerto Rico 
+SLV ,naslv ,El Salvador 
+SPM ,naspm ,Saint Pierre and Miquelon 
+TCA ,natca ,Turks and Caicos Islands 
+TTO ,natto ,Trinidad and Tobago 
+UMI ,naumi ,United States Minor Outlying Islands 
+USA ,nausa ,United States 
+VCT ,navct ,Saint Vincent and the Grenadines 
+VGB ,navgb ,British Virgin Islands 
+VIR ,navir ,Virgin Islands 
+ASM ,ocasm ,American Samoa 
+AUS ,ocaus ,Australia 
+COK ,occok ,Cook Islands 
+FJI ,ocfji ,Fiji 
+FSM ,ocfsm ,Micronesia 
+GLP ,ocglp ,Guadeloupe 
+GUM ,ocgum ,Guam 
+KIR ,ockir ,Kiribati 
+MHL ,ocmhl ,Marshall Islands 
+MNP ,ocmnp ,Northern Mariana Islands 
+NCL ,ocncl ,New Caledonia 
+NFK ,ocnfk ,Norfolk Island 
+NIU ,ocniu ,Niue 
+NRU ,ocnru ,Nauru 
+NZL ,ocnzl ,New Zealand 
+PCN ,ocpcn ,Pitcairn Islands 
+PLW ,ocplw ,Palau 
+PNG ,ocpng ,Papua New Guinea 
+PYF ,ocpyf ,French Polynesia 
+SLB ,ocslb ,Solomon Islands 
+TKL ,octkl ,Tokelau 
+TON ,octon ,Tonga 
+TUV ,octuv ,Tuvalu 
+VUT ,ocvut ,Vanuatu 
+WLF ,ocwlf ,Wallis and Futuna 
+WSM ,ocwsm ,Samoa 
+ARG ,saarg ,Argentina 
+BOL ,sabol ,Bolivia 
+BRA ,sabra ,Brazil 
+CHL ,sachl ,Chile 
+COL ,sacol ,Colombia 
+ECU ,saecu ,Ecuador 
+FLK ,saflk ,Falkland Islands 
+GUF ,saguf ,French Guiana 
+GUY ,saguy ,Guyana 
+PER ,saper ,Peru 
+PRY ,sapry ,Paraguay 
+SUR ,sasur ,Suriname 
+URY ,saury ,Uruguay 
+VEN ,saven ,Venezuela 
+WLD ,xxwld ,World 
+XXA ,xxxxh ,Areas 
